@@ -1,10 +1,10 @@
-* {
-    /*background-color: #00000011;
-    /*border: 1px solid black;
+/* {
+    background-color: #00000011;
+    border: 1px solid black;
     padding: 0.25rem;
-    margin: 0.25rem; */
+    margin: 0.25rem; 
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-}
+} */
 nav .home{
     float:left;
 }
@@ -16,9 +16,6 @@ nav{
     background: #cfcfcf;
     position: relative;
 
-}
-a{
-    
 }
 nav a{
     text-decoration: none;
@@ -42,7 +39,7 @@ nav img {
     float:right;
 }
 nav img:hover{
-    background-color: ;
+    background-color:#dfdfdf;
     border-radius:2vw;
     padding:1vw;
     transition:all 0.5s ease-out;
