@@ -8,12 +8,12 @@ nav .home{
     float:left;
 }
 .home .logo{
-    width:80px;
-    height:50px;
+    width:200px;
+    height:150px;
 
 }
 nav .home .products{
-    margin-right:500px;
+    margin-right:450px;
 }
 
 nav {
@@ -21,7 +21,7 @@ nav {
     width:100%;
     min-height:150px;
     text-align: right;
-    background: #cfcfcf;
+    background: #e6e8e5;
     
 
 }
