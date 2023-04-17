@@ -11,10 +11,12 @@ nav .home{
 .home .logo{
     width:200px;
     height:150px;
+    margin-left:175px;
 
 }
 nav .home .products{
     margin-right:450px;
+
     
 }
 
@@ -43,6 +45,7 @@ nav a:hover{
     border-radius:1rem;
     transition:all 0.5s ease-out;
 }
+
 nav img {
     width: 30px;
     height:30px;
