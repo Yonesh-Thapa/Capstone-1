@@ -4,16 +4,26 @@
     margin: 0.25rem; 
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 } */
+nav{
+    z-index:200;
+}
 nav .home{
     float:left;
     padding-left:30px;
 }
-.home .logo{
+body a.logo{
+    position:absolute;
+    top:0;
+    left:calc(50% - 100px);
+    z-index:100;
+}
+body > a img.logo{
     width:200px;
     height:150px;
-    margin-left:175px;
+    z-index:100;
 
 }
+
 nav .home .products{
     margin-right:450px;
 
@@ -46,12 +56,13 @@ nav a:hover{
     transition:all 0.5s ease-out;
 }
 
-nav img {
+nav .toggle img {
     width: 30px;
     height:30px;
-    float:right;
+
     
 }
+
 /* nav img:hover{
     background-color:#dfdfdf;
     border-radius:1rem;
