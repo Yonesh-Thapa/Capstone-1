@@ -17,13 +17,14 @@ h1{
     margin-top:50px;
 }
 
-form, h1,input{
+form, h1{
     background-color: white;
     padding-left:20px;
 }
 #continue input{
     background-color: cfcfcf;
     border-radius: 35vw;
+    padding-left:8px;
 }
 form{
     border:#e6e8e5 solid 3px;
