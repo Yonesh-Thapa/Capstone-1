@@ -6,6 +6,7 @@
 } */
 nav .home{
     float:left;
+    padding-left:30px;
 }
 .home .logo{
     width:200px;
@@ -14,14 +15,16 @@ nav .home{
 }
 nav .home .products{
     margin-right:450px;
+    
 }
 
 nav {
-
+    padding-top:20px;
     width:100%;
-    min-height:150px;
+    min-height:170px;
     text-align: right;
     background: #e6e8e5;
+    padding-right:30px;
     
 
 }
@@ -37,8 +40,8 @@ nav a{
 nav a:hover{
     color:#cfcfcf;
     background:#000000;
-    border-radius:2vw;
-    padding:1vw;
+    border-radius:1rem;
+    padding:0.5rem;
     transition:all 0.5s ease-out;
 }
 nav img {
