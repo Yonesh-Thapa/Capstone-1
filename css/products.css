@@ -2,6 +2,9 @@
     min-height: 100rem;
     font-size:0;
 }
+.product-page{
+    background-color: #e6e8e5;
+}
 .product,
 .product-list,
 .filter{
