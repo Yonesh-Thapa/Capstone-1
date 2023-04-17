@@ -9,3 +9,7 @@ form{
 form .form{
     margin:30px;
 }
+#sign-in input{
+    background-color: cfcfcf;
+    border-radius: 35vw;
+}

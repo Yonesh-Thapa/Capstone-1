@@ -11,8 +11,13 @@ label{
     
 }
 h1{
-    text-align: center;
+    margin-top:50px;
 }
+
 form, h1,input, label{
     background-color: white;;
+}
+#continue input{
+    background-color: cfcfcf;
+    border-radius: 35vw;
 }

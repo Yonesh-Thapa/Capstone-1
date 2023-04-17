@@ -1,0 +1,26 @@
+.content{
+    min-height: 100rem;
+}
+.product,
+.product-page,
+.filter{
+    vertical-align: top;
+    display: inline-block;
+}
+
+.filter{
+    min-width: 30%;
+    min-height: 100rem;
+}
+.product-page{
+    min-width: 60%;
+    min-height: 100rem;
+}
+.product {
+    min-width: 30%;
+    min-height: 12rem;
+}
+.photo{
+    width:200px;
+    height:250px;
+}
