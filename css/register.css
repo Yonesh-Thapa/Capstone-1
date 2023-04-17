@@ -10,14 +10,22 @@ label{
     margin:auto;
     
 }
+nav{
+    margin-bottom:30px;
+}
 h1{
     margin-top:50px;
 }
 
 form, h1,input, label{
-    background-color: white;;
+    background-color: white;
+    padding-left:20px;
 }
 #continue input{
     background-color: cfcfcf;
     border-radius: 35vw;
+}
+form{
+    border:#e6e8e5 solid 2px;
+    border-radius:1rem;
 }
