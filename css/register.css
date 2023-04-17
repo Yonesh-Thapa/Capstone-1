@@ -9,6 +9,7 @@ label{
     width:400px;
     margin:auto;
     
+    
 }
 nav{
     margin-bottom:30px;
@@ -22,7 +23,7 @@ form, h1{
     padding-left:20px;
 }
 #continue input{
-    background-color: cfcfcf;
+    background-color: #cfcfcf;
     border-radius: 35vw;
     padding-left:8px;
 }
@@ -30,3 +31,11 @@ form{
     border:#e6e8e5 solid 3px;
     border-radius:1rem;
 }
+form,
+h1
+{
+    background-color: #cfcfcf;
+}
+
+
+

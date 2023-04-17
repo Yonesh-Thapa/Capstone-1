@@ -6,6 +6,7 @@
     margin:auto;
     margin-top:50px;
     border-radius:1rem;
+
 }
 form{
     margin:auto;
@@ -15,6 +16,11 @@ form .form{
     margin:30px;
 }
 #sign-in input{
-    background-color: cfcfcf;
+    background-color: #cfcfcf;
     border-radius: 35vw;
+}
+.body
+
+{
+    background-color: #cfcfcf;
 }
